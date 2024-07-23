@@ -1,6 +1,6 @@
 package Metodos;
 
-public class Aplicacao {
+public class AplicacaoCarros {
 
 	public static void main(String[] args) {
 		Carros c1 = new Carros();
